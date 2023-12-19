@@ -1,7 +1,7 @@
 ### I'm Rachael!
 
 <div id="header" align="center">
-  <img src="https://shorturl.at/nAFQ0" width="100"/>
+  <img src="https://shorturl.at/nAFQ0" width="500"/>
 </div>
 
 <!--
