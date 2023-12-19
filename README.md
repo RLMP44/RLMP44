@@ -4,7 +4,7 @@
   <img src="https://shorturl.at/nAFQ0" width="300"/>
 </div>
 
-<div id="badge">
+<div id="badge" align="center">
   <a href="linkedin.com/in/rachael-momber">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
