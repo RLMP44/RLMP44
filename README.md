@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m looking to join a company where I can put my skills to use and develop them further.
 
-- :seedling: Exploring new languages and techniques by building exciting new apps!
+- :seedling: I'm currentlu exploring new languages and techniques by building exciting new apps!
 
 - :zap: In my free time, I solve problems on CodeWars. Outside of coding I'm also an avid reader, gamer, runner, and hiker.
 
