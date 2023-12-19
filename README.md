@@ -1,7 +1,7 @@
-### Hi there 👋
+### I'm Rachael!
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJmcWxiZG1ka29xb3RuNjhmZWxndm96eWE3ZDVyMGRnajN4bHJpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AchAaby3cski5RAavq/giphy.gif" width="100"/>
+  <img src="https://shorturl.at/nAFQ0" width="100"/>
 </div>
 
 <!--
