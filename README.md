@@ -60,4 +60,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RLMP44&theme=dark&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RLMP44&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
