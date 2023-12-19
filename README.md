@@ -1,5 +1,3 @@
-### I'm Rachael!
-
 <div id="header" align="center">
   <img src="https://shorturl.at/nAFQ0" width="300"/>
 </div>
@@ -12,6 +10,11 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=RLMP44&style=flat-square&color=blue" alt=""/>
 </div>
+
+<h1>
+  Well, hello!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **RLMP44/RLMP44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
