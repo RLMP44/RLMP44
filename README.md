@@ -35,6 +35,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/rachael-momber)
 
+- Or view my portfolio: [!Portfolio Badge](https://img.shields.io/badge/My%20Portfolio-8A2BE2)](rmomber.netlify.app)
+
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
