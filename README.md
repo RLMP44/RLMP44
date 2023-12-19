@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/AchAaby3cski5RAavq" width="100"/>
 </div>
 
-<iframe src="https://giphy.com/embed/AchAaby3cski5RAavq" width="480" height="336" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-designer-grafiqe-AchAaby3cski5RAavq">via GIPHY</a></p>
 <!--
 **RLMP44/RLMP44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
