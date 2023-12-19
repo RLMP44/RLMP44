@@ -19,17 +19,17 @@
 <div align="center">
   <img src="https://shorturl.at/gwxy7" width="600" height="300"/>
 </div>
-<!--
-**RLMP44/RLMP44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :woman_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Japan.
+
+- :telescope: I’m looking to join a company where I can put my skills to use and develop them further.
+
+- :seedling: Exploring new languages and techniques by building exciting new apps!
+
+- :zap: In my free time, I solve problems on CodeWars. Outside of coding I'm also an avid reader, gamer, runner, and hiker.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/rachael-momber)
