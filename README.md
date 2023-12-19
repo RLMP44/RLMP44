@@ -3,7 +3,7 @@
 </div>
 
 <div id="badge" align="center">
-  <a href="linkedin.com/in/rachael-momber">
+  <a href="https://www.linkedin.com/in/rachael-momber/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -33,9 +33,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on CodeWars. Outside of coding I'm also an avid reader, gamer, runner, and hiker.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/rachael-momber)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rachael-momber/)
 
-- Or view my portfolio: <a href="rmomber.netlify.app"><img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2" alt="Portfolio"/></a>
+- Or view my portfolio: <a href="https://rmomber.netlify.app"><img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2" alt="Portfolio"/></a>
 
 
 - ---
