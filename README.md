@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://shorturl.at/nAFQ0" width="300"/>
-</div>
+<!--   <img src="https://shorturl.at/nAFQ0" width="300"/> -->
+<!-- </div> -->
 
 <div id="badge" align="center">
   <a href="https://www.linkedin.com/in/rachael-momber/">
