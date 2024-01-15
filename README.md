@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: I'm currently exploring new languages and techniques by building exciting new apps!
 
-- :zap: In my free time, I solve problems on CodeWars. Outside of coding I'm also an avid reader, gamer, runner, and hiker.
+- :zap: In my free time, I take lessons on Udemy and work on personal/group projects. Outside of coding I'm also an avid reader, gamer, runner, and hiker.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rachael-momber/)
 
