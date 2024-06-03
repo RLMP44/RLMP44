@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div id="counter" align="center">
+<!-- <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=RLMP44&style=flat-square&color=blue" alt=""/>
-</div>
+</div> -->
 
 <div align="center">
 <!--   <img src="https://shorturl.at/gwxy7" width="600" height="300"/> -->
