@@ -22,7 +22,7 @@
 
 I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Japan.
 
-- :telescope: I’m looking to join a company where I can put my skills to use and develop them further.
+- :telescope: I’m always looking to put my skills to use and develop them further.
 
 - :seedling: I'm currently exploring new languages and techniques by building exciting new apps!
 
