@@ -12,11 +12,10 @@
   I'm Rachael.
 </h1>
 
-- ---
 
 ### :woman_technologist: About Me :
 
-I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Japan.
+I am a professional Full-Stack Developer based in Japan.
 
 - :telescope: I’m always looking to put my skills to use and develop them further.
 
@@ -27,6 +26,8 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rachael-momber/)
 
 - 👀 Or view my portfolio: <a href="https://rmomber.netlify.app"><img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2" alt="Portfolio"/></a>
+
+- 👩‍🏭 You'll also find my work GitHub here: <a href="https://github.com/rachael-momber"><img src="https://img.shields.io/badge/Professional%20GitHub-8A2BE2" alt="Professional GitHub"/></a>
 
 
 - ---
@@ -49,6 +50,10 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="Sourcetree" **alt="Sourcetree" width="40" height="40"/>
+  
 </div>
 
 ---
