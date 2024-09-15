@@ -1,11 +1,3 @@
-<!-- <div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=RLMP44&style=flat-square&color=blue" alt=""/>
-</div> -->
-
-<!-- <div align="center"> -->
-<!--   <img src="https://shorturl.at/gwxy7" width="600" height="300"/> -->
-<!-- </div> -->
-
 <h1 align="center">
   Hello, there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -27,7 +19,7 @@ I am a professional Full-Stack Developer based in Japan.
 
 - 👀 Or view my portfolio: <a href="https://rmomber.netlify.app"><img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2" alt="Portfolio"/></a>
 
-- 👩‍🏭 You'll also find my work GitHub here: <a href="https://github.com/rachael-momber"><img src="https://img.shields.io/badge/Professional%20GitHub-8A2BE2" alt="Professional GitHub"/></a>
+- 👩‍🏭 You'll also find my work GitHub here: <a href="https://github.com/rachael-momber"><img src="https://img.shields.io/badge/Professional%20GitHub-31A872" alt="Professional GitHub"/></a>
 
 
 - ---
