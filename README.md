@@ -24,7 +24,7 @@ I am a professional Full-Stack Developer based in Japan.
 
 - ---
 
-### 🔨 Languages :
+### 🔨 Languages & Frameworks :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>
