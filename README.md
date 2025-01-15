@@ -9,8 +9,6 @@
 
 I am a professional Full-Stack Developer based in Japan.
 
-- :telescope: I’m always looking to put my skills to use and develop them further.
-
 - :seedling: I'm currently exploring new languages and techniques by building exciting new apps!
 
 - :zap: In my free time, I work on coding challenges and personal/group projects. Outside of coding I'm also an avid reader, gamer, runner, and hiker.
