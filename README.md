@@ -7,7 +7,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a professional Full-Stack Developer based in Japan.
+I am a professional Full-Stack Developer based in Michigan, USA.
 
 - :seedling: I'm currently exploring new languages and techniques by building exciting new apps!
 
