@@ -63,4 +63,8 @@ I am a professional Full-Stack Developer based in Michigan, USA.
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=RLMP44&theme=transparent&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLMP44&layout=compact&theme=transparent&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLMP44&layout=compact&theme=transparent&cache_seconds=7200"
+  alt="GitHub Stats"
+  onerror="this.onerror=null; this.src='tech-stats.jpg';"
+/>
